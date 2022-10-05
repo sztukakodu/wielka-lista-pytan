@@ -65,7 +65,7 @@
 
 # GIT
 1. Różnica między fetch a pull
-2. co to jest git stash?
+2. Co to jest git stash?
 
 # SCRUM, JIRA, Agile, Zarządzanie Projektami
 1. Czy pracowałeś/-aś z JIRĄ?

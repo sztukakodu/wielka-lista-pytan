@@ -2,6 +2,7 @@
 
 $if(toc)$
 $toc$
+
 $endif$
 
 $body$
