@@ -9,13 +9,13 @@
     -   [Algorytmy i Struktury
         Danych](#algorytmy-i-struktury-danych){#toc-algorytmy-i-struktury-danych}
 -   [Spring / Hibernate /
-    JPA](#spring--hibernate--jpa){#toc-spring--hibernate--jpa}
+    JPA](#spring-hibernate-jpa){#toc-spring-hibernate-jpa}
     -   [Spring Security /
-        Security](#spring-security--security){#toc-spring-security--security}
+        Security](#spring-security-security){#toc-spring-security-security}
 -   [HTTP / REST /
-    Networking](#http--rest--networking){#toc-http--rest--networking}
+    Networking](#http-rest-networking){#toc-http-rest-networking}
 -   [CI / CD, Kontenery, DevOps, Kubernetes /
-    Linux](#ci--cd-kontenery-devops-kubernetes--linux){#toc-ci--cd-kontenery-devops-kubernetes--linux}
+    Linux](#ci-cd-kontenery-devops-kubernetes-linux){#toc-ci-cd-kontenery-devops-kubernetes-linux}
 -   [Bazy Danych](#bazy-danych){#toc-bazy-danych}
 -   [GIT](#git){#toc-git}
 -   [SCRUM, JIRA, Agile, Zarządzanie
@@ -38,7 +38,7 @@
 ## Biblioteki
 
 1.  Lombok: jaka adnotacja tworzy konstruktor bezparametrowy?
-2.  Lombok: Jakie problemy mogą wynikać z adnotacji \@Data?
+2.  Lombok: Jakie problemy mogą wynikać z adnotacji @Data?
 
 ## Wyjątki
 
@@ -54,7 +54,7 @@
 
 1.  Czy wiem na czym polegają kolejki?
 
-# Spring / Hibernate / JPA {#spring--hibernate--jpa}
+# Spring / Hibernate / JPA
 
 1.  Rodzaje fetchowania (fetch lazy, fetch eager)
 2.  W jaki sposób mozna tworzyć zapytania w JPA? (Chodziło o JPQL)
@@ -63,25 +63,25 @@
         Springu?](https://www.youtube.com/watch?v=hC4NmoO66Zc)
 4.  Na czym polega lazy loading?
 5.  W jaki sposób można wstrzykiwać zależności w Springu?
-6.  Adnotacja \@Profile
+6.  Adnotacja @Profile
 7.  Scope'y beanów
 8.  Jakie znasz serwery aplikacji?
 
-## Spring Security / Security {#spring-security--security}
+## Spring Security / Security
 
 1.  Jakie znasz rozdzaje autoryzacji w Springu?
 2.  Co to jest OAuth 2.0?
 3.  Było pytanie o Base64
 4.  Pytanie o autoryzacje tokenem
 
-# HTTP / REST / Networking {#http--rest--networking}
+# HTTP / REST / Networking
 
 1.  REST: różnice pomiędzy GET, POST, PUT, PATCH, DELETE.
 2.  Co to jest i na czym polega SOAP?
 3.  Co oznaczają errory 400, 401, 404?
 4.  Co to WSDL?
 
-# CI / CD, Kontenery, DevOps, Kubernetes / Linux {#ci--cd-kontenery-devops-kubernetes--linux}
+# CI / CD, Kontenery, DevOps, Kubernetes / Linux
 
 1.  Z Dockera: co to są kontenery?
 2.  W jaki sposób mogą się ze sobą komunikować kontenery?
