@@ -10,4 +10,5 @@ build:
 	rm toc.md
 
 push:
-	git commit -a -m "Update questions list $(date)"
+	git commit -a -m "Update questions list on $(date +'%Y/%m/%d')"
+	git push
